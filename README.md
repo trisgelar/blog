@@ -7,3 +7,9 @@ By Antonio Mele
 ```
 	GRANT ALL PRIVILEGES ON test_ujang_blog.* TO 'ujang_blog'@'localhost';
 ```
+
+### Git Push
+```
+	git remote add origin https://github.com/trisgelar/blog.git
+	git push -u origin master
+```
